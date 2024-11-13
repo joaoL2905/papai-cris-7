@@ -2,5 +2,5 @@ body {
     color: white;
     background: black;
 header{
-    border: solid 2px red;
+    border-bottom: solid 2px red;
 }
